@@ -16,5 +16,6 @@ HTML • CSS • JavaScript • React • Node.js
 ---
 
 ### 📫 Connect With Me
+📱 **Mobile:** +92 300 1234567
 💼 *LinkedIn:* [Muhammad Shoaib](https://www.linkedin.com/in/muhammad-shoaib)  
 🌍 *Location:* Gulshan-e-Maymar, Karachi  
